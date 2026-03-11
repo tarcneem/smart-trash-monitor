@@ -2,11 +2,11 @@
 #include <HTTPClient.h>
 
 // WiFi
-const char* ssid = "partner1";
-const char* password = "0544542364";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // Server
-const char* serverURL = "http://192.168.1.147:5000/update";
+const char* serverURL = "http://YOUR_LAPTOP_IP:5000/update";
 // Pins
 #define TRIG_PIN 5
 #define ECHO_PIN 18
