@@ -11,7 +11,7 @@ Built with ESP32, Python Flask, SQLite, and Leaflet.js.
 > Real-time map showing bin status across Beit Hanina, Jerusalem.
 > Green = OK | Yellow = Half Full | Red = Full
 
-*(Add your dashboard screenshot here)*
+<img width="1916" height="889" alt="image" src="https://github.com/user-attachments/assets/ea2e0940-9c01-4346-8f6a-e1f75c712579" />
 
 ---
 
@@ -151,7 +151,6 @@ Each additional bin requires only one ESP32 + sensor with a unique `BIN_ID`. The
 ## 👩‍💻 Author
 
 **Tarneem** — Electrical & Electronics Engineer  
-Jerusalem College of Engineering  
 
 ---
 
